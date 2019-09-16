@@ -71,7 +71,7 @@ client.on('ready',  () => {
 
        $bc  |  لأرسال برود كاست للأونلاين
 
-       $adminbc | برودكاست عادي
+       !adminbc | برودكاست عادي
 
        ** `)
    message.author.sendEmbed(embed)
